@@ -1,0 +1,84 @@
+#wrapper {
+    width: 650px;
+    margin: 0 auto;
+}
+
+#header {
+    background-color:#3399ff;
+}
+
+#logo{
+    float: left;
+    width: 75px;
+    height: 100px;
+    border-spacing: 0;
+}
+
+#logo div div	{
+    float:left;
+    width:25px;
+    height:25px;
+}
+
+#title_text {
+    font-size: 3em;
+    font-style: italic;
+    color: #fff;
+    font-weight: bold;
+    padding-left: 40px;
+    line-height: 200%;
+}
+
+#photo {
+    border: 3px solid #FF6600;
+    float: left;
+    width: 200px;
+    margin: 10px 14px;
+}
+
+#info {
+    float: left;
+}
+
+.left {
+    float:left;
+    width:200px;
+    margin-left:15px;
+    color: #aeabaa;
+}
+.right{
+    margin-left:215px;
+    color: #7891bf;    
+    font-style: italic;
+}
+.contact_info, .personal_info, .high_education_info, .additional_education_info {width:415px;}
+
+.name	{margin:15px 10px;}
+
+.name span {
+    color: #cc0202;
+    font-size: 12pt;
+    font-weight: bold;
+    font-family:Arial;
+    padding-bottom:5px;
+    border-bottom: 3px solid #818103;
+}
+
+#info h3 {
+    color: #f0f0f0;
+    border-top: #3333FF 3px solid;
+    margin: 5px 0 5px 0;
+    background-color: #3399FF ;
+}
+
+#info h3 ul {
+    list-style: square;
+    margin: 0;
+}
+
+#info h4 {
+    color: #1eb4ff;
+    font-size: 12pt;;
+    margin: 0;
+}
+.clear{    clear: both;}
